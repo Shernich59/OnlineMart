@@ -1,0 +1,9 @@
+Item Price(RM) Member_Price(RM)
+Microwave 299.00 250.00  
+Iron  40.00 35.00
+Rice_Cooker 80.00 75.00
+Hair_Dryer 50.00 47.00
+Shoe_Rack 12.00 12.00
+Kitchen_Carpet 24.00 24.00
+MicroSD 40.00 35.00
+Mini_Speaker 10.00 10.00
